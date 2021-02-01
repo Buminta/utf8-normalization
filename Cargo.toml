@@ -1,6 +1,6 @@
 [package]
 name = "tb_normalization"
-version = "0.9.9"
+version = "1.0.0"
 authors = ["Tan Bui <tanbm.hut@gmail.com>"]
 edition = "2018"
 description = "A library for normalization utf8 string, loc dau vietnamese and some language"

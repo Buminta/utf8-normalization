@@ -25,7 +25,7 @@ fn remove_special_characters(s: String) -> String {
     e.trim().to_string()
 }
 
-trait TbNormalization {
+pub trait TbNormalization {
     fn tb_normalization(&self) -> String; 
     fn remove_special_characters(&self) -> String;
 }
