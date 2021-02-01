@@ -1,0 +1,17 @@
+[package]
+name = "tb_normalization"
+version = "0.9.9"
+authors = ["Tan Bui <tanbm.hut@gmail.com>"]
+edition = "2018"
+description = "A library for normalization utf8 string, loc dau vietnamese and some language"
+
+homepage = "https://github.com/buminta/utf8-normalization/"
+repository = "https://github.com/buminta/utf8-normalization.git"
+license-file = "LICENSE"
+
+keywords = ["utf8", "normalization", "loc dau", "vietnamese"]
+categories = ["text-processing", "normalization"]
+
+[dependencies]
+regex = "1.3.1"
+unicode-normalization = "0.1.8"
