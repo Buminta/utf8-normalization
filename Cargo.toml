@@ -9,7 +9,7 @@ homepage = "https://github.com/buminta/utf8-normalization/"
 repository = "https://github.com/buminta/utf8-normalization.git"
 license-file = "LICENSE"
 
-keywords = ["utf8", "normalization", "loc dau", "vietnamese"]
+keywords = ["utf8", "normalization", "locdau", "vietnamese"]
 categories = ["text-processing", "normalization"]
 
 [dependencies]
